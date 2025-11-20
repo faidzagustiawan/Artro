@@ -175,7 +175,7 @@ export default async function DashboardPage() {
             </div>
           ) : (
             <div className="text-center py-12">
-              <p className="text-gray-500 mb-4">You haven't uploaded any artworks yet</p>
+              <p className="text-gray-500 mb-4">You havent uploaded any artworks yet</p>
               <Link 
                 href="/upload"
                 className="inline-block px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700"
