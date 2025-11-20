@@ -6,7 +6,7 @@ export default function ForbiddenPage() {
       <div className="text-center">
         <h1 className="text-6xl font-bold text-gray-900 mb-4">403</h1>
         <h2 className="text-2xl font-semibold text-gray-700 mb-4">Access Forbidden</h2>
-        <p className="text-gray-600 mb-2">You don't have permission to access this page.</p>
+        <p className="text-gray-600 mb-2">You dont have permission to access this page.</p>
         <p className="text-gray-600 mb-8">This page is only accessible to artists.</p>
         <div className="flex gap-4 justify-center">
           <Link 
